@@ -248,7 +248,8 @@ SECTIONS
 ## Output screen shots of Serial port utility   :
  
  
- 
+ <img width="779" height="475" alt="493200805-edd490c3-564f-4e53-b037-56d1ea6ab6b4" src="https://github.com/user-attachments/assets/58c81203-bbeb-47cb-bc18-7c65f0642a71" />
+
  
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
