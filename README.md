@@ -243,12 +243,14 @@ SECTIONS
 
   .ARM.attributes 0 : { *(.ARM.attributes) }
 }
+
 ```
 
 ## Output screen shots of Serial port utility   :
  
  
- <img width="779" height="475" alt="493200805-edd490c3-564f-4e53-b037-56d1ea6ab6b4" src="https://github.com/user-attachments/assets/58c81203-bbeb-47cb-bc18-7c65f0642a71" />
+ <img width="1920" height="1080" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/fac5ed77-ec7d-4ce3-b01e-36171c2c8f09" />
+
 
  
 ## Result :
